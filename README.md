@@ -8,3 +8,4 @@ These are programming challenges i did from the website codewars.com
 * Grasshopper gets an int n and adds the numbers from 0 to n
 * ReturnNegative return the negative of every number
 * Square checks if the given number is the square of another int 
+* RockPaperScissors just like the game
