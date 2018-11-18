@@ -1,3 +1,5 @@
+package main;
+
 public class FindTheMissingLetter {
 
     //this method goes through the given array and checks if a

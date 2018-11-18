@@ -1,3 +1,5 @@
+package main;
+
 public class ReturnNegative {
 
     //makes every int negative
