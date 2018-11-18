@@ -9,3 +9,4 @@ These are programming challenges i did from the website codewars.com
 * ReturnNegative return the negative of every number
 * Square checks if the given number is the square of another int 
 * RockPaperScissors just like the game
+* RemoveChars removes the first and the last char of a String
