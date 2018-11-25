@@ -12,4 +12,3 @@ public class DontGiveMeFiveTest {
             assertEquals(12, DontGiveMeFive.dontGiveMeFive(4,17));
         }
     }
-
