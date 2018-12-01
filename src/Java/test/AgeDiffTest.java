@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.AgeDiff;
+import Java.main.AgeDiff;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

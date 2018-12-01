@@ -1,6 +1,4 @@
-package main;
-
-import java.util.Arrays;
+package Java.main;
 
 public class Grasshopper {
 

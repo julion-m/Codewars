@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.Grasshopper;
+import Java.main.Grasshopper;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,4 +1,4 @@
-package main;
+package Java.main;
 
 public class ReturnNegative {
 

@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.Positive;
+import Java.main.Positive;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

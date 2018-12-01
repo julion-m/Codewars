@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.CountingSheep;
+import Java.main.CountingSheep;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

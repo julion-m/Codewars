@@ -1,7 +1,6 @@
-import main.CountingSheep;
-import main.FindAverage;
-import main.FindTheMissingLetter;
-import main.ReturnNegative;
+package Java;
+
+import Java.main.*;
 
 public class Main {
 
@@ -22,5 +21,14 @@ public class Main {
         System.out.println(ReturnNegative.makeNegative(x));
         System.out.println(ReturnNegative.makeNegative(y));
         System.out.println(CountingSheep.countSheep(sheeps));
+
+        char a = 'a';
+        char z = 'z';
+        char a2 = 'A';
+        char z2 = 'Z';
+        int i = 65+25;
+        System.out.println((char) i);
+
+        ReversedStrings.solution("world");
     }
 }

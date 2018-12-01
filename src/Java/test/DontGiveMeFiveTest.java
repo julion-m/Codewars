@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.DontGiveMeFive;
+import Java.main.DontGiveMeFive;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

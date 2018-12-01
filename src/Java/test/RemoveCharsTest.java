@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.RemoveChars;
+import Java.main.RemoveChars;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

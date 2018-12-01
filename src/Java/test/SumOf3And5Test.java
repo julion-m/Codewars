@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.SumOf3And5;
+import Java.main.SumOf3And5;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -6,5 +6,6 @@ public class MinutesToMidnight {
 
     public String countMinutes(Date d){
         //TODO add code here
+        return "";
     }
 }

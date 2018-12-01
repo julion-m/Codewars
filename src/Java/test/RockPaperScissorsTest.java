@@ -1,6 +1,6 @@
-package test;
+package Java.test;
 
-import main.RockPaperScissors;
+import Java.main.RockPaperScissors;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
