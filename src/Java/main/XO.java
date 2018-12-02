@@ -4,9 +4,7 @@ public class XO {
 
     public static boolean getXO (String str) {
 
-        if(str.isEmpty())
-            return false;
-        str.toLowerCase();
+        str = str.toLowerCase();
         int x = 0;
         int o = 0;
         char[] chars = str.toCharArray();
